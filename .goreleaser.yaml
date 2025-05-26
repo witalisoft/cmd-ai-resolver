@@ -14,7 +14,7 @@ builds:
     - -X 'github.com/witalisoft/cmd-ai-resolver/cmd.Version={{.Version}}'
 
 archives:
-- builds:
+- ids:
   - cmd-ai-resolver
 
 changelog:
